@@ -10,5 +10,9 @@ footer {
     display: flex;
     flex: 1;
     list-style: none;
+    justify-content: space-between;
+  }
+  h1 {
+    flex: 3;
   }
 }
